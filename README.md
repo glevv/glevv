@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GLevV
+- 👋 Hi, I’m Gleb Levitskiy
 - 👀 I’m interested in ML/DS
 
 <!---
