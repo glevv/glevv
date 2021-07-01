@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Gleb Levitskiy
 - 👀 I’m interested in ML/DS
-- Here is some stats
   
 [![Gleb Levitskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=GLevV)](https://github.com/anuraghazra/github-readme-stats)
   
