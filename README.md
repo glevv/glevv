@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width=25% height=25% />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width=33% height=33% />
 </div>  
   
 ### <div align="center">I'm Gleb, a full-time Data Scientist</div>  
