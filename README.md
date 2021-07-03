@@ -3,6 +3,7 @@
 </div>  
   
 ### <div align="center">I'm Gleb, a full-time Data Scientist</div>  
+### <div align="center">I'm working on my own GBM library</div>  
   
 <br/>  
 
