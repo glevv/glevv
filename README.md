@@ -2,8 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width=33% height=33% />
 </div>  
   
-### <div align="center">I'm Gleb, a full-time Data Scientist 🙋‍♂️</div>  
-### <div align="center">I'm working on my own GBM library 💻</div>  
+### <div align="center">I'm Gleb, a full-time Data Scientist 🙋‍♂️</div>
   
 <br/>  
 
