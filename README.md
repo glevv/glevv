@@ -44,7 +44,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=glevv&&style=flat-square)  
+<div align="center"><img src="https://komarev.com/ghpvc/?username=glevv&&style=flat-square" align="center" /></div> 
   
 <br/>
 
