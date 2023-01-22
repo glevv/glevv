@@ -2,18 +2,19 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width=33% height=33% />
 </div>  
   
-### <div align="center">I'm Gleb, a full-time Data Scientist 🙋‍♂️</div>
+### <div align="center">I'm Gleb Levitski, a full-time Data Scientist 🙋‍♂️</div>
   
 <br/>  
 
 ## My Skill Set  
  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="33" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="33" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="33" /></a>
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="33" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="33" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="33" /></a>
 </div>
 
 </td><td valign="top" width="33%">
