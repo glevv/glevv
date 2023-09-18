@@ -1,20 +1,18 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width=33% height=33% />
-</div>  
-  
-### <div align="center">I'm Gleb Levitski, a full-time Data Scientist 🙋‍♂️</div>
-  
-<br/>  
+## <div align="center">Greetings, traveller</div>
 
-## My Skill Set  
- 
-<div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="33" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="33" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="33" /></a>
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="33" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="33" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="33" /></a>
+### <div align="center">I'm Gleb Levitski, a full-time Data Scientist</div>
+
+<br/>
+
+## My Skill Set
+
+<div align="center">
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="32" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="32" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="32" /></a>
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="32" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="32" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="32" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -25,28 +23,28 @@
 
 <br/>  
 
-## Connect with me  
+## Connect with me
 <div align="center">
 <a href="https://github.com/glevv" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" width="128px" height="32px"/>
 </a>
 <a href="https://linkedin.com/in/gleb-levitski/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" width="128px" height="32px"/>
 </a>
 <a href="https://www.kaggle.com/altprof" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" width="128px" height="32px"/>
+</a>
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=glevv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 
-<br/>  
+## Github Stats
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=glevv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=glevv&&style=flat-square" align="center" /></div> 
-  
+<br/>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=glevv&&style=flat-square" align="center" /></div>
+
 <br/>
 
 ----
