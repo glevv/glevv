@@ -1,6 +1,6 @@
 ## <div align="center">Greetings, traveller</div>
 
-### <div align="center">I'm Gleb Levitski, a full-time Data Scientist</div>
+<div align="center"><strong>I'm Gleb Levitski, a full-time Data Scientist</strong></div>
 
 <br/>
 
