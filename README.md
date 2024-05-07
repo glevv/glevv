@@ -16,7 +16,8 @@
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="32" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="32" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="32" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="32" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg" alt="Bash" height="32" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://assets-global.website-files.com/62038ffc9cd2db6132e3c782/624dad92e54611476d2c8962_docker.svg" alt="Docker" height="32" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -32,7 +33,7 @@
 <a href="https://github.com/glevv" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="padding: 5px;" width="128px" height="32px"/>
 </a>
-<a href="https://linkedin.com/in/gleb-levitski/" target="_blank">
+<a href="https://linkedin.com/in/gleb-levitski" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="padding: 5px;" width="128px" height="32px"/>
 </a>
 <a href="https://www.kaggle.com/altprof" target="_blank">
