@@ -30,15 +30,9 @@
 
 ## Connect with me
 <div align="center">
-<a href="https://github.com/glevv" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="padding: 5px;" width="128px" height="32px"/>
-</a>
-<a href="https://linkedin.com/in/gleb-levitski" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="padding: 5px;" width="128px" height="32px"/>
-</a>
-<a href="https://www.kaggle.com/altprof" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="padding: 5px;" width="128px" height="32px"/>
-</a>
+<a href="https://github.com/glevv" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="padding: 5px;" width="128px" height="32px"/></a>
+<a href="https://linkedin.com/in/gleb-levitski" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="padding: 5px;" width="128px" height="32px"/></a>
+<a href="https://www.kaggle.com/altprof" target="_blank"><img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="padding: 5px;" width="128px" height="32px"/></a>
 </div>
 
 <br/>
@@ -48,9 +42,10 @@
 
 <br/>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=glevv&&style=flat-square" align="center" /></div>
-
-<br/>
+<div align="center">
+  <a href="https://user-badge.committers.top/cyprus_public/glevv"><img src="https://user-badge.committers.top/cyprus_public/glevv.svg" alt="Contributions Rank" /></a>
+  <img src="https://komarev.com/ghpvc/?username=glevv&&style=flat" />
+</div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
